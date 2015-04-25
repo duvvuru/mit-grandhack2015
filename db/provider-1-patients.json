@@ -7,16 +7,30 @@
         "dob": "12/1/1956",
         "address": "2579 Taylor St",
         "phone": "(506)-392-5819",
-        "alert": true
-    },
-    {
-        "id": "2",
-        "name": "Jack Mccoy",
-        "picture_url": "https://randomuser.me/api/portraits/men/86.jpg",
-        "email": "jack.mccoy14@example.com",
-        "dob": "4/5/1985",
-        "address": "7464 Cedar Hills Blvd",
-        "phone": "(644)-122-9813",
-        "alert": false
-    }
+        "alert": true,
+        "chads": {
+            "chf": true,
+            "hypertension": false,
+            "age75": false,
+            "diabetes": true,
+            "stroke": false
+        }
+  },
+  {
+	    "id": "2",
+	    "name": "Jack Mccoy",
+	    "picture_url": "https://randomuser.me/api/portraits/men/86.jpg",
+	    "email": "jack.mccoy14@example.com",
+	    "dob": "4/5/1985",
+	    "address": "7464 Cedar Hills Blvd",
+	    "phone": "(644)-122-9813",
+	    "alert": false,
+	    "chads": {
+            "chf": false,
+            "hypertension": false,
+            "age75": false,
+            "diabetes": true,
+            "stroke": false
+        
+	}
 ]

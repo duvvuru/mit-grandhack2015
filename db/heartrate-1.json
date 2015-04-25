@@ -1,0 +1,3122 @@
+[
+  {
+    "HeartRate": 76,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:10:55.3733855-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:10:55.3804313-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:10:55.3804313-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:10:55.3824454-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:10:55.3824454-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:10:55.3824454-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:10:55.3834541-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:10:55.3834541-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:10:55.3834541-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:10:55.3834541-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:10:55.3834541-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:10:55.3834541-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:10:55.3844611-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:10:55.3844611-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:10:55.3844611-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:10:56.0287584-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:10:57.0209261-04:00"
+  },
+  {
+    "HeartRate": 62,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:10:58.0110343-04:00"
+  },
+  {
+    "HeartRate": 62,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:10:59.0169072-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:00.0333381-04:00"
+  },
+  {
+    "HeartRate": 62,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:00.9950746-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:01.9959775-04:00"
+  },
+  {
+    "HeartRate": 62,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:02.9982002-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:03.987226-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:04.9982584-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:05.9851812-04:00"
+  },
+  {
+    "HeartRate": 62,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:06.9960058-04:00"
+  },
+  {
+    "HeartRate": 64,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:07.9833836-04:00"
+  },
+  {
+    "HeartRate": 64,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:08.978611-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:09.9789655-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:10.9734249-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:11.9514048-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:12.9656448-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:13.9456406-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:14.9496965-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:15.9411301-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:16.9562243-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:17.9473629-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:18.9382519-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:19.9395209-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:20.9436765-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:21.9360395-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:22.9248878-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:23.9261558-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:24.9207989-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:25.9236537-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:26.9098746-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:27.9122995-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:36.2426672-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:36.2426672-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:36.2426672-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:36.2436709-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:36.2436709-04:00"
+  },
+  {
+    "HeartRate": 64,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:36.2436709-04:00"
+  },
+  {
+    "HeartRate": 64,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:36.2446762-04:00"
+  },
+  {
+    "HeartRate": 64,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:36.2446762-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:36.865199-04:00"
+  },
+  {
+    "HeartRate": 62,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:37.8577335-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:38.8532559-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:39.8624589-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:40.8495036-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:41.8415821-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:42.8381224-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:43.8471706-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:44.8406249-04:00"
+  },
+  {
+    "HeartRate": 63,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:45.8389469-04:00"
+  },
+  {
+    "HeartRate": 64,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:46.8162849-04:00"
+  },
+  {
+    "HeartRate": 64,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:47.8308589-04:00"
+  },
+  {
+    "HeartRate": 64,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:48.8158912-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:49.8123024-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:50.804598-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:51.8171285-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:52.8045971-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:53.8143808-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:54.8008778-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:55.7921658-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:56.8035015-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:57.7795892-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:58.7696572-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:11:59.7734295-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:00.7827486-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:01.7787937-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:02.7646843-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:03.7665307-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:04.7550405-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:05.7646409-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:06.7559571-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:07.7450483-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:08.757762-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:09.7262158-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:10.7363377-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:15.2436568-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:15.2446654-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:15.2456669-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 0,
+    "Timestamp": "2015-04-25T16:12:15.2466823-04:00"
+  },
+  {
+    "HeartRate": 78,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:15.7047319-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:16.7148503-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:17.712612-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:18.7022183-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:19.692128-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:20.6941623-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:21.7073932-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:22.6864415-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:23.6743442-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:24.6847679-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:25.6747079-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:26.6797611-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:27.6672635-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:28.6747235-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:29.6647621-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:30.6472581-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:31.65625-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:32.6410377-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:33.6597913-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:34.6391426-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:35.6297873-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:36.6326722-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:37.6262519-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:38.6277-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:39.6285723-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:40.6272709-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:41.6198112-04:00"
+  },
+  {
+    "HeartRate": 60,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:42.6019116-04:00"
+  },
+  {
+    "HeartRate": 60,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:43.6122726-04:00"
+  },
+  {
+    "HeartRate": 59,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:44.5973341-04:00"
+  },
+  {
+    "HeartRate": 59,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:45.602356-04:00"
+  },
+  {
+    "HeartRate": 59,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:46.591048-04:00"
+  },
+  {
+    "HeartRate": 62,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:47.5973526-04:00"
+  },
+  {
+    "HeartRate": 61,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:48.5923344-04:00"
+  },
+  {
+    "HeartRate": 61,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:49.5916713-04:00"
+  },
+  {
+    "HeartRate": 62,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:50.5677036-04:00"
+  },
+  {
+    "HeartRate": 62,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:51.5885943-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:52.5882652-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:53.56238-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:54.5813165-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:55.5538346-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:56.54363-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:57.5511503-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:58.5398357-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:12:59.55112-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:00.5328829-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:01.5405073-04:00"
+  },
+  {
+    "HeartRate": 82,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:02.5311491-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:03.5336677-04:00"
+  },
+  {
+    "HeartRate": 84,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:04.522784-04:00"
+  },
+  {
+    "HeartRate": 85,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:05.5115424-04:00"
+  },
+  {
+    "HeartRate": 85,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:06.5227904-04:00"
+  },
+  {
+    "HeartRate": 85,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:07.5040317-04:00"
+  },
+  {
+    "HeartRate": 85,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:08.4946498-04:00"
+  },
+  {
+    "HeartRate": 84,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:09.5036704-04:00"
+  },
+  {
+    "HeartRate": 84,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:10.4914439-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:11.4974472-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:12.4825962-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:13.4850227-04:00"
+  },
+  {
+    "HeartRate": 81,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:14.47744-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:15.4930514-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:16.4988048-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:17.4665629-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:18.4799768-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:19.47871-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:20.4655732-04:00"
+  },
+  {
+    "HeartRate": 84,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:21.4599098-04:00"
+  },
+  {
+    "HeartRate": 82,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:22.4637125-04:00"
+  },
+  {
+    "HeartRate": 82,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:23.4512147-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:24.4562325-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:25.4587254-04:00"
+  },
+  {
+    "HeartRate": 82,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:26.4261735-04:00"
+  },
+  {
+    "HeartRate": 82,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:27.4312562-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:28.4266916-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:29.4243223-04:00"
+  },
+  {
+    "HeartRate": 83,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:30.418943-04:00"
+  },
+  {
+    "HeartRate": 84,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:31.4225286-04:00"
+  },
+  {
+    "HeartRate": 85,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:32.4037433-04:00"
+  },
+  {
+    "HeartRate": 85,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:33.4225312-04:00"
+  },
+  {
+    "HeartRate": 85,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:34.3987626-04:00"
+  },
+  {
+    "HeartRate": 85,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:35.4187768-04:00"
+  },
+  {
+    "HeartRate": 85,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:36.4050255-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:37.4212797-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:38.3787812-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:39.3873723-04:00"
+  },
+  {
+    "HeartRate": 79,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:40.3988113-04:00"
+  },
+  {
+    "HeartRate": 79,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:41.3675359-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:42.3854306-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:43.379379-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:44.3768629-04:00"
+  },
+  {
+    "HeartRate": 81,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:45.3748922-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:46.3487843-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:47.351272-04:00"
+  },
+  {
+    "HeartRate": 81,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:48.36383-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:49.3401018-04:00"
+  },
+  {
+    "HeartRate": 81,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:50.3547363-04:00"
+  },
+  {
+    "HeartRate": 81,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:51.3637294-04:00"
+  },
+  {
+    "HeartRate": 81,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:52.3289472-04:00"
+  },
+  {
+    "HeartRate": 81,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:53.3325987-04:00"
+  },
+  {
+    "HeartRate": 81,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:54.3488516-04:00"
+  },
+  {
+    "HeartRate": 81,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:55.3525919-04:00"
+  },
+  {
+    "HeartRate": 78,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:56.3192146-04:00"
+  },
+  {
+    "HeartRate": 78,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:57.3267095-04:00"
+  },
+  {
+    "HeartRate": 78,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:58.3205269-04:00"
+  },
+  {
+    "HeartRate": 79,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:13:59.3179814-04:00"
+  },
+  {
+    "HeartRate": 79,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:00.3151261-04:00"
+  },
+  {
+    "HeartRate": 79,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:01.2926498-04:00"
+  },
+  {
+    "HeartRate": 78,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:02.3061858-04:00"
+  },
+  {
+    "HeartRate": 77,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:03.3133132-04:00"
+  },
+  {
+    "HeartRate": 77,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:04.2788735-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:05.2813931-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:06.2922744-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:07.278922-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:08.2886396-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:09.2813911-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:10.2669066-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:11.250748-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:12.2574202-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:13.2488591-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:14.2492732-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:15.2378436-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:16.2551596-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:17.2451703-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:18.2405455-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:19.2291439-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:20.2405464-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:21.2191039-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:22.2218089-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:23.22396-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:24.2030667-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:25.2227117-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:26.2088396-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:27.192522-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:28.2052094-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:29.1955783-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:30.1929104-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:31.1771417-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:32.1908338-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:33.172842-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:34.1589725-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:35.1677477-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:36.1592749-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:37.1639968-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:38.1508557-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:39.161707-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:40.1510393-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:41.1306377-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:42.1442049-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:43.1245984-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:44.1452489-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:45.1246286-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:46.1356626-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:47.1243866-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:48.1113673-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:49.1163606-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:50.1070673-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:51.1416919-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:52.1026119-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:53.1044931-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:54.0977609-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:55.0806857-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:56.0963583-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:57.0801648-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:58.0807008-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:14:59.0787658-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:00.0769391-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:01.0616406-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:02.0765821-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:03.0700975-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:04.0701137-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:05.0403418-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:06.040296-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:07.054654-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:08.0388612-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:09.0372005-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:10.0325747-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:11.0206569-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:12.0256171-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:13.0203842-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:14.024799-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:15.0203553-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:16.0191531-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:17.0135193-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:17.9914986-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:18.9854097-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:19.9889377-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:20.9840706-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:21.9798107-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:22.9941751-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:23.9782837-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:24.9616405-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:25.9754206-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:26.9579169-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:27.9534971-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:28.954223-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:29.9400932-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:30.9491906-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:31.9446288-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:32.944674-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:33.9442011-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:34.9597126-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:35.9385159-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:36.9194624-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:37.9305282-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:38.9320971-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:39.9095917-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:40.9008738-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:41.9145603-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:42.8998372-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:43.8929815-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:44.9109516-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:45.8813566-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:46.8759123-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:47.8892987-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:48.887368-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:49.8909783-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:50.8799154-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:51.8671417-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:52.8619088-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:53.8624108-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:54.8508916-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:55.8461163-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:56.859928-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:57.8538385-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:58.8443159-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:15:59.850667-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:00.8363581-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:01.8427344-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:02.8271825-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:03.8156277-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:04.8417717-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:05.8142243-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:06.8012705-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:07.7911237-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:08.8067454-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:09.8034857-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:10.7886981-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:11.8037639-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:12.7964825-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:13.7950332-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:14.7839128-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:15.7652765-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:16.7685916-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:17.788472-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:18.7714012-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:19.7577104-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:20.7424048-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:21.7405596-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:22.7486637-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:23.7368677-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:24.7369141-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:25.7331434-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:26.7283582-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:27.7396422-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:28.7261771-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:29.7156665-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:30.7050248-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:31.718686-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:32.6994153-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:33.6921359-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:34.689952-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:35.704411-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:36.7008236-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:37.6994363-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:38.6794587-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:39.6944618-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:40.6782095-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:41.6657141-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:42.6769593-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:43.6619307-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:44.6694531-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:45.6544857-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:46.6569697-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:47.6481988-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:48.6482107-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:49.6450824-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:50.6400941-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:51.6395012-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:52.6257508-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:53.6364799-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:54.6132391-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:55.6069698-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:56.600758-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:57.6270212-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:58.6157434-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:16:59.5995217-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:00.6161102-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:01.5932991-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:02.5824097-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:03.5907978-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:04.5832698-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:05.5889009-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:06.5732622-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:07.5611925-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:08.5533033-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:09.5605203-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:10.5493688-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:11.5633018-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:12.5595928-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:13.5561877-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:14.5545895-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:15.5483181-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:16.5245864-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:17.5245714-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:18.5220843-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:19.52082-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:20.5164686-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:21.5271076-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:22.5064587-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:23.5083425-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:24.5071331-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:25.5033344-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:26.5033791-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:27.4996141-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:28.5013633-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:29.4796507-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:30.4696246-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:31.4683935-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:32.4783891-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:33.4671095-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:34.4640097-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:35.4583864-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:36.4509194-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:37.4421763-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:38.4534212-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:39.4384243-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:40.4571793-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:41.4384255-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:42.4246735-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:43.4296993-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:44.4234237-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:45.4259417-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:46.4138725-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:47.4209704-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:48.410916-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:49.4171861-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:50.4096621-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:51.3984805-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:52.3947082-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:53.3834596-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:54.3822258-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:55.379675-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:56.3734674-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:57.3752568-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:58.3639482-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:17:59.3734883-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:00.3735-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:01.3710135-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:02.3603458-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:03.3626218-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:04.3474371-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:05.3585359-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:06.3435018-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:07.3314631-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:08.3247649-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:09.3385142-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:10.3203664-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:11.3297864-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:12.3060255-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:13.3201107-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:14.3272991-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:15.3156556-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:16.2823151-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:17.2923086-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:18.2935437-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:19.3060451-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:20.2929332-04:00"
+  },
+  {
+    "HeartRate": 79,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:21.2785468-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:22.2675454-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:23.2785769-04:00"
+  },
+  {
+    "HeartRate": 80,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:24.2798446-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:25.2660939-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:26.2548485-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:27.2696043-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:28.2483778-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:29.2585874-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:30.2473708-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:31.2536169-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:32.2248178-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:33.2486101-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:34.234832-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:35.2198614-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:36.2123371-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:37.2148864-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:38.2264689-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:39.2148597-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:40.2030614-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:41.2073809-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:42.1941806-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:43.2037796-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:44.1948828-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:45.1824768-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:46.1861245-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:47.1936511-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:48.1649148-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:49.1686839-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:50.1599077-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:51.1699071-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:52.1611911-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:53.1523864-04:00"
+  },
+  {
+    "HeartRate": 76,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:54.1661688-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:55.1488483-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:56.1489245-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:57.1449415-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:58.1366252-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:18:59.1474468-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:00.129332-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:01.1265719-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:02.1264614-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:03.128711-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:04.1200532-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:05.1212308-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:06.1162416-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:07.1055757-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:08.0899941-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:09.0868331-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:10.1097102-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:11.098159-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:12.0897536-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:13.0787179-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:14.0780905-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:15.0975252-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:16.0737593-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:17.0624825-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:18.0687867-04:00"
+  },
+  {
+    "HeartRate": 64,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:19.0577828-04:00"
+  },
+  {
+    "HeartRate": 64,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:20.0400665-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:21.0525356-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:22.0593855-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:23.0420993-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:24.023128-04:00"
+  },
+  {
+    "HeartRate": 65,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:25.0381012-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:26.0267317-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:27.0100572-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:28.0075661-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:29.0306825-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:30.0463005-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:31.0038331-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:31.9963653-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:33.0100265-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:34.0063176-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:34.9925408-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:35.9963365-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:36.9866188-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:38.0024732-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:38.9828022-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:39.9876119-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:40.9800885-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:41.9736679-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:42.952284-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:43.9563602-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:44.9449489-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:45.9338387-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:46.9575689-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:48.2051379-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:49.1718089-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:50.2005298-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:51.1705465-04:00"
+  },
+  {
+    "HeartRate": 66,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:52.1726673-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:53.1726514-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:54.1686695-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:55.1537015-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:56.1714187-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:57.1714056-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:58.1588442-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:19:59.1570293-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:00.1567714-04:00"
+  },
+  {
+    "HeartRate": 68,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:01.1441837-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:02.1357665-04:00"
+  },
+  {
+    "HeartRate": 67,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:03.1401861-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:04.1212462-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:05.109541-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:06.1452079-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:07.1580698-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:08.1402033-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:09.1495541-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:10.1331504-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:11.1189773-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:12.1377008-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:13.1158302-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:14.1264701-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:15.1202028-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:16.1102643-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:17.1118378-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:18.0988806-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:19.1027453-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:20.0965022-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:21.097737-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:22.0827685-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:23.0688049-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:24.0827969-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:25.0702714-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:26.079839-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:27.0602633-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:28.050268-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:29.0558963-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:30.0402865-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:31.0515356-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:32.0552739-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:33.0477813-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:34.0446496-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:35.0212483-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:36.0290621-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:37.0167415-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:38.0207504-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:39.0158553-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:40.0065698-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:41.0211458-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:42.0144747-04:00"
+  },
+  {
+    "HeartRate": 69,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:43.0103419-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:43.9939036-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:45.0045163-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:45.9917055-04:00"
+  },
+  {
+    "HeartRate": 70,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:46.981592-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:47.967525-04:00"
+  },
+  {
+    "HeartRate": 71,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:48.9655021-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:49.9828625-04:00"
+  },
+  {
+    "HeartRate": 75,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:50.967863-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:51.9641205-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:52.9528144-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:53.9678776-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:54.9678584-04:00"
+  },
+  {
+    "HeartRate": 74,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:55.9981822-04:00"
+  },
+  {
+    "HeartRate": 73,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:56.956221-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:57.9393422-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:58.9326465-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:20:59.955397-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:21:00.9441812-04:00"
+  },
+  {
+    "HeartRate": 72,
+    "Quality": 1,
+    "Timestamp": "2015-04-25T16:21:01.9372981-04:00"
+  }
+]
