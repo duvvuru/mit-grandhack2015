@@ -1,36 +1,64 @@
 [
-    {
-        "id": "1",
-        "name": "Chris Thomas",
-        "picture_url": "https://randomuser.me/api/portraits/men/93.jpg",
-        "email": "chris.thomas60@example.com",
-        "dob": "12/1/1956",
-        "address": "2579 Taylor St",
-        "phone": "(506)-392-5819",
-        "alert": true,
-        "chads": {
-            "chf": true,
-            "hypertension": false,
-            "age75": false,
-            "diabetes": true,
-            "stroke": false
-        }
+  {
+    "id": "1",
+    "name": "Chris Thomas",
+    "picture_url": "https://randomuser.me/api/portraits/men/93.jpg",
+    "email": "chris.thomas60@example.com",
+    "dob": "12/1/1956",
+    "address": "2579 Taylor St",
+    "phone": "(506)-392-5819",
+    "alert": true,
+    "chads": {
+      "chf": true,
+      "hypertension": false,
+      "age75": false,
+      "diabetes": true,
+      "stroke": false
+    },
+    "supporters": [
+      {
+        "name": "Evelyn Smith, MD",
+        "relationship": "PCP"
+      },
+      {
+        "name": "Janice Hollinger, RN",
+        "relationship": "Home Health Nurse"
+      },
+      {
+        "name": "Aaron Thomas",
+        "relationship": "Son"
+      }
+    ]
   },
   {
-	    "id": "2",
-	    "name": "Jack Mccoy",
-	    "picture_url": "https://randomuser.me/api/portraits/men/86.jpg",
-	    "email": "jack.mccoy14@example.com",
-	    "dob": "4/5/1985",
-	    "address": "7464 Cedar Hills Blvd",
-	    "phone": "(644)-122-9813",
-	    "alert": false,
-	    "chads": {
-            "chf": false,
-            "hypertension": false,
-            "age75": false,
-            "diabetes": true,
-            "stroke": false
-        }
-	}
+    "id": "2",
+    "name": "Jack Mccoy",
+    "picture_url": "https://randomuser.me/api/portraits/men/86.jpg",
+    "email": "jack.mccoy14@example.com",
+    "dob": "4/5/1985",
+    "address": "7464 Cedar Hills Blvd",
+    "phone": "(644)-122-9813",
+    "alert": false,
+    "chads": {
+      "chf": false,
+      "hypertension": false,
+      "age75": false,
+      "diabetes": true,
+      "stroke": false
+    },
+    "supporters": [
+      {
+        "name": "John Smith, MD",
+        "relationship": "PCP"
+      },
+      {
+        "name": "Brandy Ellis, RN",
+        "relationship": "Home Health Nurse"
+      },
+      {
+        "name": "Clifford Lewis",
+        "relationship": "Son"
+      }
+    ]
+  }
 ]

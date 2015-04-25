@@ -18,7 +18,7 @@ module.exports = {
   				res.status(500).json({error: "post data missing"});
   				return;
   			}
-  			
+
   			if(item) {
   				item.alert = req.body.alert;
   				fs.writeFile("./db/provider-"+req.params.id+"-patients.json", JSON.stringify(jsonData, null, 4), function(err, response) {
@@ -31,5 +31,4 @@ module.exports = {
   			}
 		});	
 	}
-
 };
