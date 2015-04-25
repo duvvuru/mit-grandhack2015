@@ -2,7 +2,7 @@
   "name": "mit-grandhack2015",
   "version": "0.0.0",
   "description": "Mit GrandHack feasibility platform",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/duvvuru/mit-grandhack2015/issues"
   },
-  "homepage": "https://github.com/duvvuru/mit-grandhack2015"
+  "homepage": "https://github.com/duvvuru/mit-grandhack2015",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "express": "^4.12.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-nodemon": "^0.4.0"
+  }
 }
