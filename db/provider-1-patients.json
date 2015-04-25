@@ -1,22 +1,22 @@
-[ 
-	{
-		"id": "1",
-		"name": "Chris Thomas",
-		"picture_url": "https://randomuser.me/api/portraits/men/93.jpg",
-		"email": "chris.thomas60@example.com",
-		"dob": "12/1/1956",
-		"address": "2579 Taylor St",
-		"phone": "(506)-392-5819",
-		"alert": true
-	},
-	{
-		"id": "2",
-		"name": "Jack Mccoy",
-		"picture_url": "https://randomuser.me/api/portraits/men/86.jpg",
-		"email": "jack.mccoy14@example.com",
-		"dob": "4/5/1985",
-		"address": "7464 Cedar Hills Blvd",
-		"phone": "(644)-122-9813",
-		"alert": false
-	}
+[
+    {
+        "id": "1",
+        "name": "Chris Thomas",
+        "picture_url": "https://randomuser.me/api/portraits/men/93.jpg",
+        "email": "chris.thomas60@example.com",
+        "dob": "12/1/1956",
+        "address": "2579 Taylor St",
+        "phone": "(506)-392-5819",
+        "alert": true
+    },
+    {
+        "id": "2",
+        "name": "Jack Mccoy",
+        "picture_url": "https://randomuser.me/api/portraits/men/86.jpg",
+        "email": "jack.mccoy14@example.com",
+        "dob": "4/5/1985",
+        "address": "7464 Cedar Hills Blvd",
+        "phone": "(644)-122-9813",
+        "alert": false
+    }
 ]

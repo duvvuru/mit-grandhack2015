@@ -14,6 +14,7 @@ var providers = require('./app/controller/providers.js');
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
+
 var port = process.env.PORT || 8080;        // set our port
 
 // ROUTES FOR OUR API
@@ -22,6 +23,8 @@ var router = express.Router();              // get an instance of the express Ro
 
 // test route to make sure everything is working (accessed at GET http://localhost:8080/api)
 router.get('/providers/:id/patients', providers.patients);
+//TODO: /providers/:id/patients/:patient_id
+router.post('/providers/:id/patients', providers.putPatient);
 
 // more routes for our API will happen here
 
