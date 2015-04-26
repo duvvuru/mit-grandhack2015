@@ -7,7 +7,10 @@
 var express    = require('express');        // call express
 var app        = express();                 // define our app using express
 var bodyParser = require('body-parser');
-var providers = require('./app/controller/providers.js');
+var providers  = require('./app/controller/providers.js');
+var data 		= require('./app/controller/data.js');
+var alerts 		= require('./app/controller/alerts.js');
+
 
 // configure app to use bodyParser()
 // this will let us get the data from a POST
@@ -32,6 +35,9 @@ var router = express.Router();              // get an instance of the express Ro
 router.get('/providers/:id/patients', providers.patients);
 //TODO: /providers/:id/patients/:patient_id
 router.post('/providers/:id/patients', providers.putPatient);
+router.post('/patients/:id/heartrate', data.postHeartRate);
+router.get('/patients/:id/alerts', alerts.get);
+router.put('/patients/:id/alerts', alerts.put);
 
 
 // more routes for our API will happen here
