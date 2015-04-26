@@ -7,15 +7,18 @@
 var express    = require('express');        // call express
 var app        = express();                 // define our app using express
 var bodyParser = require('body-parser');
+var config = require('./config.js')
 var providers  = require('./app/controller/providers.js');
 var data 		= require('./app/controller/data.js');
 var alerts 		= require('./app/controller/alerts.js');
+var patients  = require('./app/controller/patients.js');
 
 
 // configure app to use bodyParser()
 // this will let us get the data from a POST
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
+
 app.use(express.static('public', {maxAge: 0}));
 
 
@@ -38,6 +41,8 @@ router.post('/providers/:id/patients', providers.putPatient);
 router.post('/patients/:id/heartrate', data.postHeartRate);
 router.get('/patients/:id/alerts', alerts.get);
 router.put('/patients/:id/alerts', alerts.put);
+router.put('/patients/:id/notification', patients.putNotification);
+
 
 
 // more routes for our API will happen here

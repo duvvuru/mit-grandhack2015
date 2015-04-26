@@ -51,7 +51,7 @@ module.exports ={
 		    		console.log('sending alert');
 	    			//POST to that api    		
 					var options = {
-					  uri: 'http://localhost:8080/api/patients/1/notification',
+					  uri: nconf.get('BASE_DOMAIN_URL') + '/api/patients/1/notification',
 					  method: 'PUT',
 					  json: {}
 					};

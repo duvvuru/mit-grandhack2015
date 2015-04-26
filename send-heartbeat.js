@@ -1,11 +1,12 @@
 var fs = require("fs");
 var request = require('request');
-
+var nconf= require('nconf');
+var config = require('./config.js')
 
 function post(item) {
 
 	var options = {
-	  uri: 'http://localhost:8080/api/patients/1/heartrate',
+	  uri:  nconf.get('BASE_DOMAIN_URL') + '/api/patients/1/heartrate',
 	  method: 'POST',
 	  json: item
 	};
