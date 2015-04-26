@@ -13,6 +13,7 @@ var providers = require('./app/controller/providers.js');
 // this will let us get the data from a POST
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
+app.use(express.static('public', {maxAge: 0}));
 
 
 var port = process.env.PORT || 8080;        // set our port
@@ -32,11 +33,19 @@ router.get('/providers/:id/patients', providers.patients);
 //TODO: /providers/:id/patients/:patient_id
 router.post('/providers/:id/patients', providers.putPatient);
 
+
 // more routes for our API will happen here
+//UI Routes
+var uirouter = express.Router();
+uirouter.get('/patients/1', function(req, res){
+	//res.send('awesome');
+	res.sendfile('app/views/graph.html');
+});
 
 // REGISTER OUR ROUTES -------------------------------
 // all of our routes will be prefixed with /api
 app.use('/api', router);
+app.use('/', uirouter);
 
 // START THE SERVER
 // =============================================================================

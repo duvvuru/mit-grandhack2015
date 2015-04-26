@@ -2,7 +2,7 @@ var fs=require("fs");
 var afib = require("./app/business/afib.js");
 var _ = require("lodash");
 
-fs.readFile("./db/heartrate-1.json", 'utf8', function (err, data) {
+fs.readFile("./db/heartrate-3.json", 'utf8', function (err, data) {
 	var json = JSON.parse(data);
 	//console.log(json);
 	//iterate all
@@ -13,4 +13,9 @@ fs.readFile("./db/heartrate-1.json", 'utf8', function (err, data) {
 		//console.log(last);
 		console.log(afib.isAfib(last));
 	}
+	// var filtered = [];
+	// for(var i=0; i<json.length;i++) {
+	// 	filtered.push([json[i].Timestamp,json[i].HeartRate]);
+	// }
+	// console.log(filtered);
 });

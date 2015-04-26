@@ -8,6 +8,6 @@ module.exports = {
 		//console.log(afibv);
 		var result = afibv/(data.length -1);
 		//console.log(result);
-		return (result > 0.1);
+		return (result > 0.01);
 	}
 };
