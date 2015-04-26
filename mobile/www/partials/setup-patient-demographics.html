@@ -1,0 +1,57 @@
+<div class="fluid-container">
+	<div class="row-fluid">
+		<div class="span12">
+			<h3 class="text-center">Patient Setup</h3>
+	    	<ul class="nav nav-pills">
+	      		<li class="active"><a href="#">Profile</a></li>
+	      		<li><a ng-href="#/setup/patient/{{patientId}}/chads">CHADS</a></li>
+	      		<li><a ng-href="#/setup/patient/{{patientId}}/supporters">Supporters</a></li>
+			</ul>
+		</div>
+		<form>
+			<div class="profile-picture-container">
+				<img class="profile-picture" ng-src="{{patient.picture_url}}" />
+				<input id="inputAlerts" name="inputAlerts" type="checkbox" ng-model="patient.alert" /><label for="inputAlerts">&nbsp;Alerts</label>
+			</div>
+			<div class="form-group">
+				<label for="inputName">Name</label>
+				<input id="inputName" type="text" class="form-control" placeholder="Name" ng-model="patient.name" />
+			</div>
+			<div class="form-group">
+				<label for="inputEmail">Email</label>
+				<input id="inputEmail" type="text" class="form-control" placeholder="Email" ng-model="patient.email" />
+			</div>
+			<div class="form-group">
+				<label for="inputDOB">Date of Birth</label>
+				<input id="inputDOB" type="text" class="form-control" placeholder="Date of Birth" ng-model="patient.dob" />
+			</div>
+			<div class="form-group">
+				<label for="inputAddress">Date of Birth</label>
+				<input id="inputAddress" type="text" class="form-control" placeholder="Address" ng-model="patient.address" />
+			</div>
+			<div class="form-group">
+				<label for="inputPhone">Phone</label>
+				<input id="inputPhone" type="text" class="form-control" placeholder="Address" ng-model="patient.phone" />
+			</div>
+
+		</form>
+	</div>
+</div>
+<script>
+	$(document).ready(function() {
+		$("inputAlerts").bootstrapSwitch();
+	});
+</script>
+
+<!--
+{
+id: "1",
+name: "Chris Thomas",
+picture_url: "https://randomuser.me/api/portraits/men/93.jpg",
+email: "chris.thomas60@example.com",
+dob: "12/1/1956",
+address: "2579 Taylor St",
+phone: "(506)-392-5819",
+alert: true
+}
+-->

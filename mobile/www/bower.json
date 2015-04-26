@@ -1,0 +1,23 @@
+{
+  "name": "Pulsymetric",
+  "version": "0.0.0",
+  "homepage": "https://github.com/duvvuru/mit-grandhack2015",
+  "authors": [
+    "jwhite <jwhite@navinet.net>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.15",
+    "angular-route": "~1.3.15",
+    "bootstrap-switch": "~3.3.2",
+    "bootstrap": "~3.3.4"
+  }
+}

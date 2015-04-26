@@ -18,8 +18,10 @@
   "homepage": "https://github.com/duvvuru/mit-grandhack2015",
   "dependencies": {
     "body-parser": "^1.12.3",
+    "connect": "^3.3.5",
     "express": "^4.12.3",
-    "lodash": "^3.7.0"
+    "lodash": "^3.7.0",
+    "static-server": "^2.0.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",

@@ -1,0 +1,53 @@
+<div class="fluid-container">
+	<div class="row-fluid">
+		<div class="span12">
+			<h3 class="text-center">Patient Setup</h3>
+		    <ul class="nav nav-pills">
+		      	<li><a href="#/setup/patient/{{patientId}}/demographics">Profile</a></li>
+		      	<li class="active"><a ng-href="">CHADS</a></li>
+		      	<li><a ng-href="#/setup/patient/{{patientId}}/supporters">Supporters</a></li>
+		    </ul>
+		</div>
+		<p>&nbsp;</p>
+		<form>
+				<div>
+					<input id="inputCHF" type="checkbox" ng-model="patient.chads.chf" /><label for="inputCHF">&nbsp;Congestive Heart Failure history?</label>
+				</div>
+				<div>
+					<input id="inputHypertension" type="checkbox" ng-model="patient.chads.hypertension" /><label for="inputHypertension">&nbsp;Hypertension history?</label>
+				</div>
+				<div>
+					<input id="inputAge" type="checkbox" ng-model="patient.chads.age75" /><label for="inputAge">&nbsp;Age 75 or above?</label>
+				</div>
+				<div>
+					<input id="inputDiabetes" type="checkbox" ng-model="patient.chads.diabetes" /><label for="inputDiabetes">&nbsp;Diabetes Mellitus history?</label>
+				</div>
+				<div>
+					<input id="inputStroke" type="checkbox" ng-model="patient.chads.stroke" /><label for="inputStroke">&nbsp;Stroke or TIA symptoms previously?</label>
+				</div>
+		</form>
+	</div>
+</div>
+<script>
+	$(document).ready(function() {
+		$("inputCHF").bootstrapSwitch();
+		$("inputHypertension").bootstrapSwitch();
+		$("inputAge").bootstrapSwitch();
+		$("inputDiabetes").bootstrapSwitch();
+		$("inputStroke").bootstrapSwitch();
+	});
+</script>
+
+<!--
+
+
+chads: {
+	chf: true,
+	hypertension: false,
+	age75: false,
+	diabetes: true,
+	stroke: false
+  }
+
+
+-->
