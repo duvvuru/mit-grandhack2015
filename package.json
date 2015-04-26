@@ -21,7 +21,10 @@
     "connect": "^3.3.5",
     "express": "^4.12.3",
     "lodash": "^3.7.0",
-    "static-server": "^2.0.0"
+    "static-server": "^2.0.0",
+    "nconf": "^0.7.1",
+    "node-gcm": "^0.9.15",
+    "request": "^2.55.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
